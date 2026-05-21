@@ -1,0 +1,10 @@
+{
+  "name": "Sheet App IA Imbert",
+  "description": "A professional AI chatbot that answers questions based on data from a Google Spreadsheet knowledge base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "AI-powered Chat",
+    "Google Sheets Integration"
+  ]
+}

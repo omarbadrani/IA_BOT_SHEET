@@ -1,0 +1,20 @@
+{
+  "name": "Sheet App IA Imbert",
+  "short_name": "SheetAppIA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/src/assets/images/app_icon_sheet_ia_1779096642893.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/assets/images/app_icon_sheet_ia_1779096642893.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
